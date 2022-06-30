@@ -27,7 +27,7 @@ const App = () => {
 
   return (
     <>
-      <div className="app--container"><input type="text" onChange={myFunc} className="input--field--for--qrcode" />
+      <div className="app--container"><input type="text" onChange={myFunc} className="input--field--for--qrcode" placeholder='Enter text to generate QR code'/>
         <div id="qrcodeforimg">
           <QRCode value={val} className="qrcodemadewithdivs" />
         </div>

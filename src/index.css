@@ -22,7 +22,9 @@ body + img{
   font-size: 2rem;
   margin: 2rem;
 }
-
+#qrcodeforimg{
+  /* background-color: white; */
+}
 .qrcodemadewithdivs{
   margin: 1rem;
 }
