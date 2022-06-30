@@ -1,5 +1,6 @@
 {
   "name": "qrcode",
+  "homepage":"https://prasadpreetish.github.io/qr-code-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
